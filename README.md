@@ -1,7 +1,8 @@
 # Full-Stack-Heart-Disease-Prediction-Using-Machine-Learning
 Full Stack Heart Disease Prediction Using Machine Learning Code, Document And Video Tutorial
 
-![image](https://github.com/user-attachments/assets/e6284ee9-9b66-4d45-a2ac-2aa2d06c8788)
+![heart disease](https://github.com/user-attachments/assets/6021f8ef-4796-4917-91d6-20cda7317fd6)
+
 
 ## Video link: https://youtu.be/fOmLsEJ0GS0?si=wuqE_4-pKidlj-k6
 
