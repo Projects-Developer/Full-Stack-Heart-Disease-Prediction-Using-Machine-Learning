@@ -3,7 +3,6 @@ Full Stack Heart Disease Prediction Using Machine Learning Code, Document And Vi
 
 ![heart disease](https://github.com/user-attachments/assets/6021f8ef-4796-4917-91d6-20cda7317fd6)
 
-
 ## Video link: https://youtu.be/fOmLsEJ0GS0?si=wuqE_4-pKidlj-k6
 
 ## Abstract:
@@ -18,7 +17,6 @@ Keywords: Heart Disease Prediction, Machine Learning, Full Stack Development, He
 2. PPT
 
 3. Research Paper
-
 
 4. Code
 
@@ -39,8 +37,6 @@ Keywords: Heart Disease Prediction, Machine Learning, Full Stack Development, He
 
 ### Website : https://www.finalproject.in/
 
-### Contact me for any kind of help on projects.
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
 
 Mail/Message me for Projects Help 🙏🏻
